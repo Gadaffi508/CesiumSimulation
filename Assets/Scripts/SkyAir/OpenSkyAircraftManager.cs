@@ -37,6 +37,7 @@ public class OpenSkyAircraftManager : MonoBehaviour{
     }
 
     IEnumerator FetchAircrafts(){
+        
         string url =
             "https://opensky-network.org/api/states/all" +
             $"?lamin={minLatitude.ToString(CultureInfo.InvariantCulture)}" +
