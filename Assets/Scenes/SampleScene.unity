@@ -179,7 +179,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 100000
+  far clip plane: 10000000
   field of view: 60.000004
   orthographic: 0
   orthographic size: 5
@@ -1076,7 +1076,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OpenSkyAircraftManager
   georeference: {fileID: 1462398553}
-  aircraftPrefab: {fileID: 6876911517558463089, guid: 7f5edce8272fe314cb25660693ed16b8, type: 3}
+  aircraftPrefab: {fileID: 2014547057958860490, guid: 787418f3786c8354592e0ff84a844189, type: 3}
   refreshRate: 2
   altitudeOffset: 0
   minLatitude: 35.5
